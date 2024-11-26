@@ -1,4 +1,4 @@
-package xyz.kuailemao.enums;
+
 
 import xyz.kuailemao.enums.ImageConst;
 import lombok.AllArgsConstructor;
