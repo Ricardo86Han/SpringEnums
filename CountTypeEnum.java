@@ -1,4 +1,4 @@
-package xyz.kuailemao.enums;
+
 
 /**
  * 统计类型
