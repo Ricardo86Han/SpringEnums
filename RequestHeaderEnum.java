@@ -1,4 +1,3 @@
-package xyz.kuailemao.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
